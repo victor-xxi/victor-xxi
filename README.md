@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**victor-xxi/victor-xxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas that github gave me get me started:
 
 - 🔭 I’m currently working on **a project**
 - 🌱 I’m currently learning **github and markdown**
